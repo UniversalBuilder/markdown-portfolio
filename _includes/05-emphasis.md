@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills and Attributes
+
+## Skills
+
+- Python
+- **GitHub**
+- Photography
+
+## Attributes
+
+Some of my own awesome attributes:
+
+- Durable
+- Smart
+- *Handsome*
