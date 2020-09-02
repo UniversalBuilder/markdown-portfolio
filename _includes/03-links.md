@@ -1,1 +1,1 @@
-![GitHub profile](https://github.com/UniversalBuilder)
+[GitHub profile](https://github.com/UniversalBuilder)
